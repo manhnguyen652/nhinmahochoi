@@ -1,0 +1,126 @@
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav p{
+    color: yellowgreen;
+    margin: auto 20px;
+    font-size: 40px;
+}
+.nav img{
+    width: 80%;
+   
+}
+.image{
+    width: 11%;
+    margin-right: 190px;
+    text-align: center;
+}
+.flower{
+    margin-right: 50px;
+}
+.given{
+    margin-right: 30px;
+}
+.image img{
+    border-radius: 50%;
+    border: 1px solid gray;
+    box-shadow: 0px 0px 2px 2px grey;
+}
+.menu-ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+.menu-ul li{
+    list-style: none;
+    margin: 5px 25px;
+    color: aliceblue;
+}
+.menu ul{
+    width: 100%;
+    background-color: green;
+    padding: 10px 0px 10px;
+    margin-bottom: 0px;
+}
+.Floral img{
+   width: 100%;
+   height: 500px;
+}
+.image-text{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;ư
+}
+.image-text img{
+    width: 130%;
+    height: 550px;
+}
+.image-1{
+    padding: 10px;
+    
+    margin-top: 10px;
+}
+.text{
+    margin-left: 130px;
+    width: 100%;
+}
+.text p{
+    font-size: 22px;
+}
+h2{
+    color: purple;
+}
+.p-pur p{
+    color: purple;
+}
+.text ul{
+    color: pink;
+    font-style: italic;
+}
+
+.best-seller{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-evenly;
+}
+.best-seller h1{
+    text-align: center;
+    width: 100%;
+    color: green;
+}
+.best-sl-item {
+    border: 1px solid gray;
+    box-shadow: 0px 0px 2px 2px grey;
+    text-align: center;
+    
+}
+.best-sl-item h3{
+    color: green;
+}
+.best-sl-item p{
+    color: orange;
+    font-weight: bolder;
+}
+.buy-now{
+    background-color: orangered;
+    width: 90px;
+    margin: 0 auto 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.best-sl-item img{
+    margin: 15px;
+}
+.footer{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 15px;
+    margin-top: 25px;
+}
+
