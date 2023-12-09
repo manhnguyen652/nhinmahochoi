@@ -1,0 +1,60 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.logo img {
+    width: 50%;
+    margin-bottom: 20px;
+}
+ul{
+    display: flex;
+    
+}
+li{
+    margin: auto 15px;
+    list-style: none;                                                                                                                                                   
+}
+a{
+    font-size: 150%;
+    text-decoration: none;
+}
+.image{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.image img{
+    width: 47%;
+
+}
+.content h1{
+    color:blue;
+    text-align: center;
+}
+.content p{
+    color:yellowgreen;
+    font-size: 23px;
+    font-style: italic;
+}
+.contect-services{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.back-gr{
+    background-color: gray;
+    color: aliceblue;
+}
+h5{
+    text-align: center;
+}
+.service{
+    margin-left: 100px;
+}
+.contact{
+    margin-right: 190px;
+}
